@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Titro</string>
 
-    <string name="to_do_logo">To-Do Logo</string>
+    <string name="app_logo">App Logo</string>
     <string name="delete_all_tasks">Delete All Notes?</string>
     <string name="delete_all_tasks_confirmation">Are you sure you want to delete all notes? This action cannot be undone.</string>
     <string name="delete_task">Remove \"%1$s\"?</string>
@@ -14,8 +14,8 @@
     <string name="update_icon">Update Icon</string>
     <string name="delete_icon">Delete Icon</string>
     <string name="back_arrow">Back Arrow</string>
-    <string name="add_task">Add Notes</string>
-    <string name="empty_content">No Notes Found</string>
+    <string name="add_note">Add Note</string>
+    <string name="empty_content">No notes found</string>
     <string name="sad_face_icon">Sad Face Icon</string>
     <string name="close_icon">Close Icon</string>
     <string name="search_icon">Search Icon</string>

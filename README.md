@@ -22,7 +22,7 @@ All different components and layers in the project were organized using MVVM and
 
 ____
 
-***PT***
+***PT-BR***
 
 Titro é um aplicativo móvel de anotações, fácil e rápido de usar.
 
